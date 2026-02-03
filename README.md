@@ -50,7 +50,7 @@ This project focuses on clean code structure, error handling, and real-world fil
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-link>
+   git clone https://github.com/guptaji0358/Nato-Alphabet-Convertor
 Open the project folder:
 
 cd <your-folder-name>
